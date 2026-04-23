@@ -72,3 +72,6 @@ The Flutter application follows a robust **Clean Architecture** approach with st
 - **Domain Layer**: Houses pure business logic and use cases without dependency on external frameworks.
 - **Data Layer**: Responsible for asynchronous HTTP calls using `dio` and local caching using `shared_preferences`.
 - **Dependency Injection**: Utilizes `get_it` for decoupling and injecting repositories, services, and state notifiers.
+
+
+And for the apk (prototype) you have to Download and install in you Monile app, then you can use my app welcomeMate. 
