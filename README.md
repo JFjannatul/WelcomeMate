@@ -31,7 +31,8 @@ for the backend admin page  run: you have to run pythonanywhere. this link: http
 ### Frontend (Flutter)
 1. Navigate to `frontend_flutter`
 2. Fetch dependencies: `flutter pub get`
-3. Run the app: `flutter run`
+3. select emulators
+4. Run the app: `flutter run`
 
 ## Folder Structure
 
