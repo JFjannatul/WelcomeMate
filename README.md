@@ -27,7 +27,7 @@ Welcome Mate is a comprehensive application designed to help users integrate int
 4. Install dependencies: `pip install -r requirements.txt`
 5. Apply migrations: `python manage.py migrate`
 6. Run the server: `python manage.py runserver`
-
+for the backend admin page  run: you have to run pythonanywhere. this link: https://welcomemate.pythonanywhere.com/admin  ( for this link email: welcomemate@mail.com and Password: welcomemate123) 
 ### Frontend (Flutter)
 1. Navigate to `frontend_flutter`
 2. Fetch dependencies: `flutter pub get`
